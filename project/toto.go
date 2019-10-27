@@ -14,6 +14,7 @@ func HelloBis(test string) string{
 	fmt.Println("hello world")
 	// we return string here
 	return test
+	// Output: test
 
 }
 
