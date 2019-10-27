@@ -1,6 +1,6 @@
 // Copyright Some Company Corp.
 // All Rights Reserved
-package goTest
+package toto
 
 
 // here are the imports
