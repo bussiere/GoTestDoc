@@ -16,6 +16,12 @@ func HelloBis(test string) string{
 
 }
 
+func ExampleHelloBis(test string) string{
+	fmt.Println("hello world")
+	return test
+    // Output: test
+
+}
 
 // Hello to say hello
 func Hello() {
