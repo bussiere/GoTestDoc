@@ -8,13 +8,13 @@ import (
 	"fmt"
 )
 
-// function to say hello
-func hello() {
+// Hello to say hello
+func Hello() {
 	fmt.Println("hello world")
 
 }
 
-// Main function here
+// main function here
 func main() {
-	hello()
+	Hello()
 }
