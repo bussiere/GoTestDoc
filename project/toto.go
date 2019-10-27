@@ -1,6 +1,6 @@
 // Copyright Some Company Corp.
 // All Rights Reserved
-package main
+package goTest
 
 
 // here are the imports
@@ -14,7 +14,3 @@ func Hello() {
 
 }
 
-// main function here
-func main() {
-	Hello()
-}
